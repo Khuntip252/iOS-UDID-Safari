@@ -1,4 +1,4 @@
-# iOS-UDID-Safari
+iOS-UDID-Safari
 iOS-UDID-Safari,通过Safari获取iOS设备真实UDID，use sarari and mobileconfig get  ios device real udid
 
 博文地址 ：www.skyfox.org/safari-ios-device-udid.html
